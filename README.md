@@ -1,4 +1,4 @@
-# ***Modular-Construction-of-Minimal-Models </br> Minimal balanced node separator***
+# ***Minimal balanced node separator</br> Modular-Construction-of-Minimal-Models***
 
 Welcome to the ***Modular-Construction-of-Minimal-Models*** And ***Minimal balanced node separator*** wiki two join Final projects.<br>
 In this wiki you will be able to view all files regarding our final project at the Software Engineering program in JCE ,
